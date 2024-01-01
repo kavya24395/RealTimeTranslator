@@ -4,9 +4,9 @@ Text Recognition from an image using ML Kit.
 Reference code: https://codelabs.developers.google.com/codelabs/mlkit-android
 ```
 ## This Repository contains the following changes (in comparison with the Codelab starter code):
+- Fixed the compile time error with Codelab source code
+- Converted the code to Kotlin
 - Removed "Face Contour Detection" related code
-- Fixed the compile time error with Codelab source code.
-- Converted the code to Kotlin.
 
 ## Current state:
 Using this code we can detect text in an image.
