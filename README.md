@@ -1,7 +1,7 @@
 # RealtimeTranslator [WIP]
 Text Recognition from an image using ML Kit.
 ```
-Reference: https://codelabs.developers.google.com/codelabs/mlkit-android
+Reference code: https://codelabs.developers.google.com/codelabs/mlkit-android
 ```
 ## This Repository contains the following changes (in comparison with the Codelab starter code):
 - Removed "Face Contour Detection" related code
