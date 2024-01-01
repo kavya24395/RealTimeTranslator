@@ -1,4 +1,5 @@
 # RealtimeTranslator [WIP]
+Text Recognition from an image using ML Kit.
 ```
 Reference: https://codelabs.developers.google.com/codelabs/mlkit-android
 ```
